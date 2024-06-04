@@ -1,0 +1,10 @@
+selenium
+webdriver_manager
+jupyter
+notebook
+flask
+pandas
+numpy
+spacy
+scikit-learn
+flask-cors

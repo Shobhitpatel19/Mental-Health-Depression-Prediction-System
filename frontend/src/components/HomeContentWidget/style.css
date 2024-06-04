@@ -1,0 +1,131 @@
+/* .redline{
+    background-color: #f1745e;
+    height: 40px;
+    width: auto;
+} */
+.central-content-container {
+    background-color: #fbc3b9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /* min-width: 1152px;
+    padding-top: 13px;
+    padding-bottom: 59px; */ 
+  }
+
+  /* .flex-container-with-text-children {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: space-between;
+    min-width: 781px;
+    margin-left: 25px;
+  } */
+
+  /* .navbar-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+
+  .brand-text-heading {
+    flex: 0 0 auto;
+    font: 400 24px Tauri, sans-serif;
+    color: rgba(79, 37, 42, 1);
+    white-space: pre-wrap;
+  }
+  .heading-text-block {
+    flex: 0 0 auto;
+    margin-left: 63px;
+    font: 400 24px Tauri, sans-serif;
+    color: rgba(79, 37, 42, 1);
+    white-space: pre-wrap;
+  }
+
+  .navigation-menu {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vertical-text-container {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 15px;
+    background-color: #fbc3b9;
+  }
+
+  .contact-profile-box {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    margin-left: 42px;
+  }
+  .profile-heading {
+    flex: 0 0 auto;
+    margin-left: 86px;
+    font: 400 24px Tauri, sans-serif;
+    color: rgba(79, 37, 42, 1);
+    white-space: pre-wrap;
+  } */
+
+  .depression-prediction-system-info {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    width: 56.75%;
+    padding-left: 70px;
+    margin-left: 100px;
+    padding-right: 100px;
+    padding-top: -30px;
+    margin-top: -50px;
+  }
+  .heading-text-block1 {
+    flex: 0 0 auto;
+    align-self: stretch;
+    font: 600 40px Taviraj, serif;
+    color: rgba(79, 37, 42, 1);
+    text-align: left;
+    white-space: pre-wrap;
+  }
+  .journey-text-styles {
+    flex: 0 0 auto;
+    align-self: stretch;
+    margin-top: 13px;
+    font: 400 20px Taviraj, serif;
+    color: rgba(79, 37, 42, 1);
+    text-align: left;
+    white-space: pre-wrap;
+  }
+
+  .hero-section {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 1005px;
+    margin-top: -35px;
+  }

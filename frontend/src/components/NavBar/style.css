@@ -1,0 +1,111 @@
+.redline{
+  background-color: #f1745e;
+  height: 40px;
+  width: 100%;
+}
+/* .central-content-container {
+  background-color: #fbc3b9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 1152px;
+  padding-top: 13px;
+  padding-bottom: 59px; 
+} */
+.nav-container{
+width: 100%;
+display: flex;
+flex-direction: column;
+/* align-items: center; */
+
+
+}
+.flex-container-with-text-children {
+  box-sizing: border-box;
+  display: flex;
+  /* flex: 0 0 auto; */
+  flex-direction: row;
+  /* gap: 8px; */
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  background-color: #fbc3b9;
+  
+}
+
+.navbar-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-top: 35px;
+  text-decoration: none;
+}
+
+.brand-text-heading {
+  flex: 0 0 auto;
+  font: 400 24px Tauri, sans-serif;
+  color: rgba(79, 37, 42, 1);
+  white-space: pre-wrap;
+  text-decoration: none;
+}
+.brand-text-heading:hover{
+  cursor: pointer;
+  color: rgba(79, 37, 42, 0.8);
+}
+.heading-text-block {
+  flex: 0 0 auto;
+  margin-left: 63px;
+  font: 400 24px Tauri, sans-serif;
+  color: rgba(79, 37, 42, 1);
+  white-space: pre-wrap;
+  text-decoration: none;
+}
+.heading-text-block:hover{
+  cursor: pointer;
+  color:  rgba(79, 37, 42, 0.8);
+}
+
+.navigation-menu {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vertical-text-container {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 15px;
+  background-color: #fbc3b9;
+}
+
+.contact-profile-box {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-left: -10px;
+  margin-top: 30px;
+  text-decoration: none;
+}
+.profile-heading {
+  flex: 0 0 auto;
+  margin-left: 86px;
+  font: 400 24px Tauri, sans-serif;
+  color: rgba(79, 37, 42, 1);
+  white-space: pre-wrap;
+  text-decoration: none;
+}

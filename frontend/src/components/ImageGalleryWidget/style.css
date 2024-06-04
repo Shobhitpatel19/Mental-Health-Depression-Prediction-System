@@ -1,0 +1,24 @@
+.img-css{
+    box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 47.25%;
+  padding-top: 36px;
+}
+
+/* .image-container-with-border {
+    margin-top:-35px;
+    box-sizing: border-box;
+    display: block;
+    width: 123px;
+    max-width: initial;
+    height: 161px;
+    clip-path: undefined;
+    border: none;
+    mix-blend-mode: normal;
+    object-fit: cover;
+  } */
